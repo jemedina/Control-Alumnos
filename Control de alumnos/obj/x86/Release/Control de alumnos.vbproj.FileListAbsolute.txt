@@ -1,0 +1,46 @@
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\bin\Release\control de calificaciones db.accdb
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.exe.config
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.pdb
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Calif.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Form1.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Gestion.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Graficas.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Resources.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Revicion.resources
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.pdb
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\bin\Release\control de calificaciones db.accdb
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\bin\Release\Control de alumnos.exe.config
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\bin\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\bin\Release\Control de alumnos.pdb
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\bin\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Calif.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Form1.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Gestion.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Graficas.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Resources.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control_de_alumnos.Revicion.resources
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control de alumnos.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\Control de alumnos like+\Control de alumnos\obj\x86\Release\Control de alumnos.pdb
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\bin\Release\control de calificaciones db.accdb
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.exe.config
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.pdb
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\bin\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Calif.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Form1.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Gestion.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Graficas.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.help.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Resources.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control_de_alumnos.Revicion.resources
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.exe
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.xml
+C:\Users\Eduardo\Desktop\CA avanze 9\Control de alumnos\Control de alumnos\obj\x86\Release\Control de alumnos.pdb
